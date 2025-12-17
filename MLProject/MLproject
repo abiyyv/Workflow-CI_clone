@@ -1,6 +1,4 @@
-name: wine-quality-ci
-
-conda_env: conda.yaml
+name: wine-mlflow
 
 entry_points:
   main:
